@@ -140,24 +140,79 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":40,
          "firstgid":1,
-         "source":"tilesets\/Tilesets_32x32.tsx"
+         "image":"tilesets\/Tilesets_32x32.png",
+         "imageheight":1920,
+         "imagewidth":1280,
+         "margin":0,
+         "name":"Tilesets_32x32",
+         "spacing":0,
+         "tilecount":2400,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":2401,
-         "source":"tilesets\/16_Grocery_store.tsx"
+         "image":"tilesets\/16_Grocery_store.png",
+         "imageheight":3552,
+         "imagewidth":256,
+         "margin":0,
+         "name":"16_Grocery_store",
+         "spacing":0,
+         "tilecount":888,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3289,
-         "source":"tilesets\/modern1.tsx"
+         "image":"tilesets\/1_Generic_32x32.png",
+         "imageheight":1920,
+         "imagewidth":512,
+         "margin":0,
+         "name":"modern1",
+         "spacing":0,
+         "tilecount":960,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":4249,
-         "source":"tilesets\/Tileset_32x32_windows.tsx"
+         "image":"tilesets\/Tileset_32x32_windows.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Tileset_32x32_windows",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":4349,
-         "source":"tilesets\/14_Basement.tsx"
+         "image":"tilesets\/14_Basement.png",
+         "imageheight":1696,
+         "imagewidth":256,
+         "margin":0,
+         "name":"14_Basement",
+         "spacing":0,
+         "tilecount":424,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
