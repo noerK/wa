@@ -336,7 +336,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"secret.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/grandcentrix\/grandcentrix\/secret"
                 }],
          "type":"tilelayer",
          "visible":true,
